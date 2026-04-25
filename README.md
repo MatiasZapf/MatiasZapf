@@ -75,7 +75,7 @@ Cloud-native platform built from scratch — event-driven, geospatially-aware, p
 Stack: FastAPI · Next.js · PostGIS · Celery · Redis · AWS. More details when it ships.
 
 ### 🌐 [zapf.dev](https://zapf.dev)
-Personal website and technical blog. Built with **Astro 5** and **Catppuccin**, featuring an interactive D3.js knowledge graph, Pagefind full-text search, Mermaid diagrams, and a Wavesurfer.js audio player for post summaries.  
+Personal website and technical blog. Built with **Astro 6** and **Catppuccin**, featuring an interactive D3.js knowledge graph (force-directed, auto zoom-to-fit), Pagefind full-text search (⌘K), Mermaid diagrams, and a lazy-loaded Wavesurfer.js audio player for post summaries. Dynamic OG images (Satori + Sharp), JSON-LD structured data, Giscus comments, and privacy-friendly Umami analytics.  
 → [live](https://zapf.dev) · [source](https://github.com/MatiasZapf/zapf.dev)
 
 ### ⚙️ [dotfiles](https://github.com/MatiasZapf/dotfiles)
@@ -137,5 +137,3 @@ a7f3b82  taught python to 50+ students @ silicon misiones
 - Collaboration on tools that blend **developer experience + security**
 - Engineering problems involving performance, geospatial data, and systems design
 - Conversations with builders who care about craft, clarity, and long-term maintainability
-
-</div>
