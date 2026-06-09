@@ -44,7 +44,7 @@ Particular interest in **GRC, threat intelligence, and security awareness** — 
 ```toml
 [identity]
 role = "Programming Instructor → Cybersecurity"
-core = ["Python", "SQL", "Bash", "Linux", "Git"]
+core = ["Python", "TypeScript", "Rust", "SQL", "Bash", "Linux", "Git"]
 
 [teaching]
 methods  = ["Ausubel scaffolding", "Bloom levels", "spaced retrieval", "worked examples"]
@@ -85,7 +85,7 @@ Bash + ble.sh + fzf · Alacritty · tmux · LazyVim · Starship.
 
 ### 🔒 Privacy-first SaaS *(side work)*
 Cloud-native B2C/B2B platform — event-driven, geospatial, privacy-first.
-Stack: FastAPI · Next.js · PostGIS · Celery · Redis · AWS.
+Stack: FastAPI · Next.js · PostgreSQL/PostGIS · Celery · Redis · Inngest · Cloudflare Workers.
 
 ---
 
